@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/video-player/static/js/main.3d4818c3.js",
+    "index.html": "/video-player/index.html",
+    "main.3d4818c3.js.map": "/video-player/static/js/main.3d4818c3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3d4818c3.js"
+  ]
+}
